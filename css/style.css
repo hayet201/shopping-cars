@@ -1,0 +1,32 @@
+main .cart .shopping{
+    background-color:#141923;
+    height: 60px;
+    color: white;
+    display: flex;
+}
+main .cart .shopping i{
+    font-size: 28px;
+    padding: 10px;
+}
+main .cart .shopping h5{
+    
+    padding: 10px;
+}
+.container{
+    margin-top: 42px;
+   
+}
+.col-sm  .icon{
+    font-size: 25px;
+    color: red;
+}
+.col-sm  i{
+    font-size: 25px;
+    
+}
+.col-sm .icone{
+    color: green;
+    font-size: 25px;
+    cursor: pointer;
+    
+}
